@@ -29,7 +29,7 @@
     "@draft-js-plugins/resizeable": "^4.1.0",
     "@octokit/core": ">=3",
     "alertifyjs": "^1.13.1",
-    "autoprefixer": "^8.6.5",
+    "autoprefixer": "^9.0.0",
     "babel-core": "^6.26.3",
     "babel-eslint": "^10.1.0",
     "babel-loader": "~7.1.5",
@@ -140,7 +140,7 @@
     "uuid": "^3.4.0",
     "webpack": "^4.46.0",
     "webpack-dev-middleware": "^4.1.0",
-    "webpack-hot-middleware": "^2.25.0",
+    "webpack-hot-middleware": "^2.25.1",
     "webpack-merge": "^4.2.2"
   },
   "devDependencies": {
